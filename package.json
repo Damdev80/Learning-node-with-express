@@ -1,0 +1,25 @@
+{
+  "name": "learning-node-with-express",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" :"node --watch app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Damdev80/Learning-node-with-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Damdev80/Learning-node-with-express/issues"
+  },
+  "homepage": "https://github.com/Damdev80/Learning-node-with-express#readme",
+  "dependencies": {
+    "express": "5.1.0"
+  }
+}
